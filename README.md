@@ -2,13 +2,16 @@
 AmogOS builds based of Manjaro ARM
 
 # Supported Devices:
-Raspberry Pi: pi zero 2 w, pi 3, pi 4, pi 5.
+Raspberry Pi: 5/4B/400/3B+/3B/Zero 2.
 
 
 Rock Pi: rockpi4b, rockpi4c.
 
 
 More coming soon ;)
+
+# Download
+https://github.com/techtimefor/amogos-manjaroarm/releases/
 
 # Build Sources:
 https://gitlab.com/techtimefor/amogos-profiles

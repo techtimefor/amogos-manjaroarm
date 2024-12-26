@@ -1,5 +1,5 @@
 # AmogOS (Manjaro ARM based)
-AmogOS builds based of Manjaro ARM
+AmogOS builds based of Manjaro ARM Unstable 
 
 # Supported Devices:
 Raspberry Pi: 5/4B/400/3B+/3B/Zero 2.
